@@ -1,0 +1,79 @@
+.user__block{
+    width: 350px;
+    margin-top: 70px;
+    float: left;
+    background: #fff;
+}
+.user__cap--bg{
+    width: 100%;
+    background: #151515;
+    height: 100px;
+}
+.ub__user--avatar img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.ub__user--avatar{
+    width: 75px;
+    height: 75px;
+    margin-top: -40px;
+    margin-left: 30px;
+    float: left;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    background: firebrick;
+}
+.user__full--name{
+    float: left;
+    margin-top: 5px;
+    margin-left: 30px;
+    font-weight: 700;
+}
+.user__full--name a{
+    color: #151515;
+}
+.user__full--name a:hover{
+
+    text-decoration: underline;
+}
+.user__login--name{
+    float: left;
+    margin-top: 5px;
+    margin-left: 30px;
+
+}
+.user__login--name a{
+    color: rgb(59, 59, 59);
+ 
+}
+.user__login--name a:hover{
+
+    text-decoration: underline;
+}
+.user__activity{
+    width: 100%;
+    float: left;
+    padding: 15px 25px;
+}
+.user__activity--item{
+    float: left;
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+}
+.user__activity--item:hover p{
+    color: #222;
+}
+.user__activity--item h3{
+    color: #222;
+    font-size: 16px;
+    margin: 5px;
+}
+.user__activity--item p{
+    color: rgb(126, 125, 125);
+    font-weight: 700;
+    font-size: 14px;
+    margin: 5px;
+}

@@ -1,0 +1,9 @@
+.middle__block--container{
+    width: 550px;
+  
+    float: left;
+    background: #fff;
+    margin-top: 70px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+}

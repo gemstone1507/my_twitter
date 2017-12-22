@@ -1,0 +1,30 @@
+.navbar{
+    display: flex;
+    height: 58px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    padding-left: 5%;
+    padding-right: 5%;
+    z-index: 1000;
+    background: #fff;
+    -webkit-box-shadow: 0px -1px 14px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px -1px 14px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px -1px 14px 0px rgba(0,0,0,0.75);
+}
+
+.navbar .navbar__item{
+    margin: 10px 15px 10px 15px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+.navbar .navbar__item:hover{
+    margin: 10px 15px 8px 15px;
+    border-bottom: 2px solid #151515;
+}
+.navbar .navbar__item a{
+    text-decoration: none;
+    color: #151515;    
+}

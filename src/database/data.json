@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": 1,
+           "fullName": "User",
+            "loginName": "login",
+            "time": "7h",
+            "tweet": "Вже давно відомо, що читабельний зміст"
+        },
+        {
+            "id": 2,
+            "fullName": "User2",
+            "loginName": "login2",
+            "time": "3h",
+            "tweet": "Останній раз я такий був коли мені так було"
+        },
+        {
+            "id": 3,
+            "fullName": "User3",
+            "loginName": "login3",
+            "time": "9h",
+            "tweet": "Вже давно відомо, що читабельний зміст"
+        }
+    ]
+}
